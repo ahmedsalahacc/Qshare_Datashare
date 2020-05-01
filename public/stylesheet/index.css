@@ -1,0 +1,11 @@
+i.icon {
+    font-size: 2rem;
+}
+
+.current-edit{
+    font-weight: bolder;
+}
+
+#delete{
+    display: inline;
+}
